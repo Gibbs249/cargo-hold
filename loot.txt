@@ -1,0 +1,6 @@
+Consumable, Potion, 5, 50, 0, 1, 0, 0, 0
+Equipment, Shield, 7, 25, 0, 2, 0, 0, 0
+Material, Gold, 14, 100, 0, 3, 0, 0, 0
+Consumable, Water, 5, 30, 0, 1, 0, 0, 0
+Equipment, Laser, 2, 80, 0, 2, 0, 0, 0
+Material, Iron, 16, 30, 0, 3, 0, 0, 0
